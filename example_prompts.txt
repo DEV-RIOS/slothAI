@@ -1,0 +1,17 @@
+Summer Exterior Rendering
+Architectural photography ((masterpiece)), ((realistic)), depict a multi-story office building as it rises majestically in an urban cityscape. The surroundings are transformed into a breathtaking lush landscape. Envelop the building in a serene summertime setting, enhancing its architectural features with a touch of whimsy. Utilize soft and diffused lighting to create a cozy and inviting atmosphere. As the artist, employ a contemporary and architectural style that showcases the building's design elements. Utilize 3D modeling and visualization techniques to craft a captivating and immersive scene. Embrace a color scheme dominated by cool tones, with shades of white and blue to capture the essence of the summer day. Let the composition reflect the grandeur of the building amidst the enchanting summertime setting
+
+Winter Exterior Rendering
+Architectural photography ((Best quality)), ((masterpiece)), ((realistic)), depict a multi-story office building as it rises majestically in an urban cityscape. The surroundings are transformed into a breathtaking winter wonderland. Envelop the building in a serene snowfall, enhancing its architectural features with a touch of whimsy. Utilize soft and diffused lighting to create a cozy and inviting atmosphere. As the artist, employ a contemporary and architectural style that showcases the building's design elements. Utilize 3D modeling and visualization techniques to craft a captivating and immersive scene. Embrace a color scheme dominated by cool tones, with shades of white and blue to capture the essence of the snowy day. Let the composition reflect the grandeur of the building amidst the enchanting winter setting
+
+Interior Wood/Stone Rendering
+Beautiful architectural interior, minimalist design, midcentry modern furniture and oak floors. The design should be japanse modern and minimalist with natural wood and stone. The lighting of the scene should capture the early morning light entering the space creating a serene and relaxing environment. 
+
+Negative Prompt
+2 heads, cropped image, draft, deformed hands, twisted fingers, long neck, malformed hands, multiple heads, extra limb, poorly drawn hands, missing limb, disfigured, blurry, bad anatomy, mutation, floating limbs, disconnected limbs, disgusting, mutilated, surreal, extra fingers, morbid, gross proportions, missing arms, mutated hands, mutilated hands, malformed, tiling, poorly drawn hands, out of frame, extra limbs, disfigured, deformed, body out of frame, bad art, beginner, amateur, distorted face, watermark
+
+Black Exterior Residence : SEED :  3029169137
+beautiful residential home with black exterior walls, ((masterpiece)), ((realistic)) at golden hour, dappled sunlight
+
+Negative Prompt
+2 heads, cropped image, draft, deformed hands, twisted fingers, long neck, malformed hands, multiple heads, extra limb, poorly drawn hands, missing limb, disfigured, blurry, bad anatomy, mutation, floating limbs, disconnected limbs, disgusting, mutilated, surreal, extra fingers, morbid, gross proportions, missing arms, mutated hands, mutilated hands, malformed, tiling, poorly drawn hands, out of frame, extra limbs, covered windows, distorted windows, poorly drawn lines, disfigured, deformed, body out of frame, bad art, beginner, amateur, distorted face
